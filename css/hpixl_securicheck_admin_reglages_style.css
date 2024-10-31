@@ -1,0 +1,195 @@
+:root {
+    --couleur-anthracite: #10241F;
+    --couleur-vert-fonce: #3A8373;
+    --couleur-vert-clair: #04AA6D;
+    --couleur-rouge-alerte: #D63638;
+    --couleur-orange-alerte: #fcb214;
+    --couleur-vert-alerte: #08cc0a;
+    --couleur-gris-clair: #f7f7f7;
+    --couleur-bordure-grise: #ddd;
+    --couleur-blanc: #fff;
+    --couleur-ombre: rgba(0, 0, 0, 0.1);
+}
+
+.hpixl_securicheck_toggle_title_reglages {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    font-weight: 600;
+    width: 220px;
+    padding-top: 20px !important;
+}
+
+.hpixl_securicheck_toggle_panneau_option_reglages {
+    padding: 0px !important;
+    border: 1px solid var(--couleur-vert-clair);
+    width: 100%;
+}
+
+.hpixl_securicheck_toggle_panneau_option_reglages p {
+    /*margin-left: 20px;*/
+    padding: 20px;
+}
+
+
+.hpixl_securicheck_toggle_option_reglages {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    border-bottom: 1px solid var(--couleur-vert-clair);
+    padding: 20px;
+    padding-left: 0px;
+}
+
+.hpixl_securicheck_toggle_option_reglages p {
+    margin: 0px !important;
+    padding: 0px;
+    padding-left: 20px;
+}
+
+.hpixl_securicheck_toggle_option_reglages input[type="checkbox"] {
+    visibility: hidden;
+}
+
+.hpixl_securicheck_toggle_option_reglages label {
+    cursor: pointer;
+    text-indent: -2000px;
+    display: block;
+    width: 38px;
+    height: 20px;
+    background: var(--couleur-rouge-alerte);
+    border-radius: 200px;
+    position: relative;
+}
+
+.hpixl_securicheck_toggle_option_reglages label:after {
+    content: '';
+    position: absolute;
+    top: 1px;
+    left: 2px;
+    width: 18px;
+    height: 18px;
+    background: var(--couleur-blanc);
+    border-radius: 90px;
+    transition: 0.4s;
+}
+
+.hpixl_securicheck_toggle_option_reglages input:checked+label {
+    background: var(--couleur-vert-clair);
+}
+
+.hpixl_securicheck_toggle_option_reglages input:checked+label:after {
+    left: calc(100% - 2px);
+    transform: translateX(-100%);
+}
+
+.hpixl-securicheck-settings-form-panel form p.submit {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+
+.hpixl-securicheck-settings-form-panel form p.submit .button {
+    background-color: #04AA6D;
+    background: #04AA6D;
+    border-color: #04AA6D;
+    color: white;
+}
+
+.hpixl-securicheck-settings-form-panel table {
+    margin-top: -10px;
+    border-collapse: separate;
+    border-spacing: 20px 30px;
+}
+
+.hpixl-securicheck-settings-form-panel table th {
+    padding: 10px 10px 10px 0px;
+    font-weight: 400;
+}
+
+.hpixl-securicheck-settings-form-panel table textarea {
+    width: calc(100% - 40px);
+    height: 100px;
+    margin: 20px 20px 0px 20px;
+}
+
+.hpixl-securicheck-settings-form-panel table select {
+    /*max-width: 70%;*/
+    margin: 0px 20px 0px 20px;
+}
+
+.hpixl-securicheck-settings-form-panel input[type="text"] {
+    width: 200px;
+    margin: 0px 20px 0px 20px;
+}
+
+.hpixl-securicheck-settings-form-panel .hpixl-securicheck-section {
+    background-color: white;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+
+.hpixl_securicheck_panneau_notifications {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.hpixl_securicheck_panneau_notifications p {
+    /*min-width: 250px;*/
+    margin: 0 !important;
+    padding-right: 0px;
+}
+
+.hpixl_securicheck_panneau_limitations {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.hpixl_securicheck_panneau_limitations p {
+    /*min-width: 250px;*/
+    margin: 0 !important;
+    padding-right: 0px;
+}
+
+.hpixl_securicheck_panneau_page_connexion_url {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.hpixl_securicheck_panneau_page_connexion_url p {
+    margin: 0 !important;
+    padding-right: 0px;
+}
+
+.hpixl_securicheck_panneau_page_connexion_url input[type="text"] {
+    width: 400px;
+    margin: 0px 20px 0px 20px;
+}
+
+.hpixl_securicheck_panneau_page_connexion_redirection {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.hpixl_securicheck_panneau_page_connexion_redirection p {
+    margin: 0 !important;
+    padding-right: 0px;
+}
+
+.hpixl_securicheck_panneau_page_connexion_redirection input[type="text"] {
+    width: 400px;
+    margin: 0px 20px 0px 0px;
+}

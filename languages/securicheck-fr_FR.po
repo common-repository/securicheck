@@ -1,0 +1,1068 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: securicheck\n"
+"POT-Creation-Date: 2024-09-19 21:41+0200\n"
+"PO-Revision-Date: 2024-09-19 21:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: 8pixl\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/Screen_audit.php:101 admin/Screen_audit.php:130
+msgid "Securicheck - AUDIT"
+msgstr "Securicheck - AUDIT"
+
+#: admin/Screen_audit.php:108
+msgid "Pour commencer, lancez un 1er audit ici !"
+msgstr "Pour commencer, lancez un 1er audit ici !"
+
+#: admin/Screen_audit.php:111 admin/Screen_audit.php:175
+msgid "Lancer un audit"
+msgstr "Lancer un audit"
+
+#: admin/Screen_audit.php:148
+msgid "Audit chargé : "
+msgstr "Audit chargé : "
+
+#: admin/Screen_audit.php:152
+msgid "Dernier audit le "
+msgstr "Dernier audit le "
+
+#: admin/Screen_audit.php:158
+msgid " Continuez à travailler "
+msgstr " Continuez à travailler "
+
+#: admin/Screen_audit.php:159
+msgid " Vous y êtes presque "
+msgstr " Vous y êtes presque "
+
+#: admin/Screen_audit.php:163
+msgid " Félicitations "
+msgstr " Félicitations "
+
+#: admin/Screen_audit.php:164
+#, no-php-format
+msgid " Votre site est 100% sécurisé "
+msgstr " Votre site est 100% sécurisé "
+
+#: admin/Screen_audit.php:185
+msgid "problèmes"
+msgstr "problèmes"
+
+#: admin/Screen_audit.php:188 utils/mail.php:58 utils/mail.php:106
+#: utils/mail.php:142
+msgid "Problèmes"
+msgstr "Problèmes"
+
+#: admin/Screen_audit.php:190
+msgid " problèmes techniques"
+msgstr " problèmes techniques"
+
+#: admin/Screen_audit.php:190
+msgid " problème technique"
+msgstr " problème technique"
+
+#: admin/Screen_audit.php:191
+msgid " problèmes fonctionnels"
+msgstr " problèmes fonctionnels"
+
+#: admin/Screen_audit.php:191
+msgid " problème fonctionnel"
+msgstr " problème fonctionnel"
+
+#: admin/Screen_audit.php:192
+msgid " problèmes de sécurité "
+msgstr " problèmes de sécurité "
+
+#: admin/Screen_audit.php:192
+msgid " problème de sécurité "
+msgstr " problème de sécurité "
+
+#: admin/Screen_audit.php:193
+msgid " problèmes de performance"
+msgstr " problèmes de performance"
+
+#: admin/Screen_audit.php:193
+msgid " problème de performance"
+msgstr " problème de performance"
+
+#: admin/Screen_audit.php:194
+msgid " tentatives de connexions échouées"
+msgstr " tentatives de connexions échouées"
+
+#: admin/Screen_audit.php:194
+msgid " tentative de connexion échouée"
+msgstr " tentative de connexion échouée"
+
+#: admin/Screen_audit.php:203 admin/Screen_audit.php:215 utils/mail.php:52
+msgid "Santé du site"
+msgstr "Santé du site"
+
+#: admin/Screen_audit.php:205 admin/Screen_audit.php:221
+msgid "Sécurité"
+msgstr "Sécurité"
+
+#: admin/Screen_audit.php:207 admin/Screen_audit.php:227
+msgid "Mises à jour"
+msgstr "Mises à jour"
+
+#: admin/Screen_audit.php:210 utils/mail.php:184
+msgid "Connexions"
+msgstr "Connexions"
+
+#: admin/Screen_audit.php:212 admin/Screen_audit.php:239
+msgid "Liste des Audits"
+msgstr "Liste des Audits"
+
+#: admin/Screen_audit.php:216
+msgid ""
+"Vous trouverez ci dessous les informations concernant la santé générale de "
+"votre site"
+msgstr ""
+"Vous trouverez ci dessous les informations concernant la santé générale de "
+"votre site"
+
+#: admin/Screen_audit.php:222 admin/Screen_audit_onglet-securite.php:12
+msgid ""
+"Vous trouverez ci dessous les informations concernant la sécurité de votre "
+"site"
+msgstr ""
+"Vous trouverez ci dessous les informations concernant la sécurité de votre "
+"site"
+
+#: admin/Screen_audit.php:228
+msgid ""
+"Vous trouverez ci dessous les informations concernant les mises à jour de "
+"votre site"
+msgstr ""
+"Vous trouverez ci dessous les informations concernant les mises à jour de "
+"votre site"
+
+#: admin/Screen_audit.php:234
+msgid "Connexions sur les 30 derniers jours avant l'audit chargé"
+msgstr "Connexions sur les 30 derniers jours avant l'audit chargé"
+
+#: admin/Screen_audit.php:235
+msgid ""
+"Vous trouverez ci dessous les informations concernant les connexions à votre "
+"site lors des 30 derniers jours avant l'audit chargé."
+msgstr ""
+"Vous trouverez ci dessous les informations concernant les connexions à votre "
+"site lors des 30 derniers jours avant l'audit chargé."
+
+#: admin/Screen_audit.php:240
+msgid "Vous trouverez ci dessous tous les Audits réalisés"
+msgstr "Vous trouverez ci dessous tous les Audits réalisés"
+
+#: admin/Screen_audit_onglet-connexions.php:9
+msgid "Tous les Utilisateurs"
+msgstr "Tous les Utilisateurs"
+
+#: admin/Screen_audit_onglet-connexions.php:12
+#: admin/Screen_audit_onglet-connexions.php:45
+#: admin/Screen_audit_onglet-connexions.php:78
+msgid ""
+"Vous trouverez ci dessous les informations concernant les connexions à votre "
+"site internet"
+msgstr ""
+"Vous trouverez ci dessous les informations concernant les connexions à votre "
+"site internet"
+
+#: admin/Screen_audit_onglet-connexions.php:15
+#: admin/Screen_audit_onglet-connexions.php:48
+#: admin/Screen_audit_onglet-connexions.php:81
+#: admin/Screen_connexions_onglet_administrateurs.php:9
+#: admin/Screen_connexions_onglet_echouees.php:9
+#: admin/Screen_connexions_onglet_tous.php:9
+msgid "Date"
+msgstr "Date"
+
+#: admin/Screen_audit_onglet-connexions.php:16
+#: admin/Screen_audit_onglet-connexions.php:49
+#: admin/Screen_audit_onglet-connexions.php:82
+#: admin/Screen_connexions_onglet_administrateurs.php:10
+#: admin/Screen_connexions_onglet_echouees.php:10
+#: admin/Screen_connexions_onglet_tous.php:10
+msgid "Login"
+msgstr "Login"
+
+#: admin/Screen_audit_onglet-connexions.php:17
+#: admin/Screen_audit_onglet-connexions.php:50
+#: admin/Screen_audit_onglet-connexions.php:83
+#: admin/Screen_connexions_onglet_administrateurs.php:11
+#: admin/Screen_connexions_onglet_echouees.php:11
+#: admin/Screen_connexions_onglet_tous.php:11
+msgid "IP"
+msgstr "IP"
+
+#: admin/Screen_audit_onglet-connexions.php:18
+#: admin/Screen_audit_onglet-connexions.php:51
+#: admin/Screen_audit_onglet-connexions.php:84
+#: admin/Screen_connexions_onglet_administrateurs.php:12
+#: admin/Screen_connexions_onglet_echouees.php:12
+#: admin/Screen_connexions_onglet_tous.php:12
+msgid "Navigateur"
+msgstr "Navigateur"
+
+#: admin/Screen_audit_onglet-connexions.php:42 admin/Screen_connexions.php:33
+msgid "Administrateurs"
+msgstr "Administrateurs"
+
+#: admin/Screen_audit_onglet-connexions.php:75 admin/Screen_connexions.php:34
+msgid "Échouées"
+msgstr "Échouées"
+
+#: admin/Screen_audit_onglet-connexions.php:85
+#: admin/Screen_connexions_onglet_echouees.php:13
+msgid "Login existant ?"
+msgstr "Login existant ?"
+
+#: admin/Screen_audit_onglet-liste-audits.php:8
+msgid "Date de l'audit"
+msgstr "Date de l'audit"
+
+#: admin/Screen_audit_onglet-liste-audits.php:9
+msgid "Score de l'audit"
+msgstr "Score de l'audit"
+
+#: admin/Screen_audit_onglet-liste-audits.php:10
+msgid "Nb Problèmes Total"
+msgstr "Nb Problèmes Total"
+
+#: admin/Screen_audit_onglet-liste-audits.php:11
+msgid "Nb Problèmes Techniques"
+msgstr "Nb Problèmes Techniques"
+
+#: admin/Screen_audit_onglet-liste-audits.php:12
+msgid "Nb Problèmes Fonctionnels"
+msgstr "Nb Problèmes Fonctionnels"
+
+#: admin/Screen_audit_onglet-liste-audits.php:13
+msgid "Nb Problèmes Sécurité"
+msgstr "Nb Problèmes Sécurité"
+
+#: admin/Screen_audit_onglet-liste-audits.php:14
+msgid "Nb Problèmes Performance"
+msgstr "Nb Problèmes Performance"
+
+#: admin/Screen_audit_onglet-liste-audits.php:15
+msgid "Type de l'audit"
+msgstr "Type de l'audit"
+
+#: admin/Screen_audit_onglet-mises-a-jour.php:9 utils/mail.php:149
+msgid "Plugins"
+msgstr "Plugins"
+
+#: admin/Screen_audit_onglet-mises-a-jour.php:12
+msgid "Les plugins à mettre à jour :"
+msgstr "Les plugins à mettre à jour :"
+
+#: admin/Screen_audit_onglet-mises-a-jour.php:15
+msgid "Plugin"
+msgstr "Plugin"
+
+#: admin/Screen_audit_onglet-mises-a-jour.php:16
+#: admin/Screen_audit_onglet-mises-a-jour.php:59
+#: admin/Screen_audit_onglet-mises-a-jour.php:100
+msgid "Version Actuelle"
+msgstr "Version Actuelle"
+
+#: admin/Screen_audit_onglet-mises-a-jour.php:17
+#: admin/Screen_audit_onglet-mises-a-jour.php:60
+#: admin/Screen_audit_onglet-mises-a-jour.php:101
+msgid "Version Disponible"
+msgstr "Version Disponible"
+
+#: admin/Screen_audit_onglet-mises-a-jour.php:51 utils/mail.php:161
+msgid "Thèmes"
+msgstr "Thèmes"
+
+#: admin/Screen_audit_onglet-mises-a-jour.php:55
+msgid "Les thèmes à mettre à jour :"
+msgstr "Les thèmes à mettre à jour :"
+
+#: admin/Screen_audit_onglet-mises-a-jour.php:58
+msgid "Thème"
+msgstr "Thème"
+
+#: admin/Screen_audit_onglet-mises-a-jour.php:93
+msgid "WordPress"
+msgstr "WordPress"
+
+#: admin/Screen_audit_onglet-mises-a-jour.php:96
+msgid "Les mises à jour WordPress :"
+msgstr "Les mises à jour WordPress :"
+
+#: admin/Screen_audit_onglet-sante.php:10 utils/mail.php:65
+msgid "Etat Technique"
+msgstr "Etat Technique"
+
+#: admin/Screen_audit_onglet-sante.php:13
+msgid ""
+"Vous trouverez ci dessous les informations techniques de votre installation"
+msgstr ""
+"Vous trouverez ci dessous les informations techniques de votre installation"
+
+#: admin/Screen_audit_onglet-sante.php:17
+msgid "Version PHP"
+msgstr "Version PHP"
+
+#: admin/Screen_audit_onglet-sante.php:19
+msgid "(version minimum de php souhaitée : "
+msgstr "(version minimum de php souhaitée : "
+
+#: admin/Screen_audit_onglet-sante.php:22
+msgid "Base de données"
+msgstr "Base de données"
+
+#: admin/Screen_audit_onglet-sante.php:27
+msgid "Version de"
+msgstr "Version de"
+
+#: admin/Screen_audit_onglet-sante.php:32
+msgid "Espace disque utilisé"
+msgstr "Espace disque utilisé"
+
+#: admin/Screen_audit_onglet-sante.php:37
+msgid "Espace disque bdd utilisé"
+msgstr "Espace disque bdd utilisé"
+
+#: admin/Screen_audit_onglet-sante.php:49 utils/mail.php:77
+msgid "Etat Fonctionnel"
+msgstr "Etat Fonctionnel"
+
+#: admin/Screen_audit_onglet-sante.php:52
+msgid ""
+"Vous trouverez ci dessous les informations fonctionnelles de votre "
+"installation"
+msgstr ""
+"Vous trouverez ci dessous les informations fonctionnelles de votre "
+"installation"
+
+#: admin/Screen_audit_onglet-sante.php:56
+msgid "Nombre de maj de plugin à faire"
+msgstr "Nombre de maj de plugin à faire"
+
+#: admin/Screen_audit_onglet-sante.php:58
+msgid "Assurez vous que tous vos plugins soient à jour."
+msgstr "Assurez vous que tous vos plugins soient à jour."
+
+#: admin/Screen_audit_onglet-sante.php:61
+msgid "Nombre de maj de thèmes à faire"
+msgstr "Nombre de maj de thèmes à faire"
+
+#: admin/Screen_audit_onglet-sante.php:63
+msgid "Assurez vous que tous vos thèmes soient à jour."
+msgstr "Assurez vous que tous vos thèmes soient à jour."
+
+#: admin/Screen_audit_onglet-sante.php:66
+msgid "Maj de WordPress à faire"
+msgstr "Maj de WordPress à faire"
+
+#: admin/Screen_audit_onglet-sante.php:68
+msgid "Assurez vous que la version de WordPress soit à jour."
+msgstr "Assurez vous que la version de WordPress soit à jour."
+
+#: admin/Screen_audit_onglet-sante.php:71
+msgid "Nom du thème actuel"
+msgstr "Nom du thème actuel"
+
+#: admin/Screen_audit_onglet-sante.php:76
+msgid "Est ce un thème enfant ?"
+msgstr "Est ce un thème enfant ?"
+
+#: admin/Screen_audit_onglet-sante.php:78
+msgid ""
+"Il est vivement conseillé de faire un thème enfant de votre thème principal."
+msgstr ""
+"Il est vivement conseillé de faire un thème enfant de votre thème principal."
+
+#: admin/Screen_audit_onglet-sante.php:81
+msgid "Nom du thème parent"
+msgstr "Nom du thème parent"
+
+#: admin/Screen_audit_onglet-sante.php:86
+msgid "Nombre de plugins désactivés/obsolètes"
+msgstr "Nombre de plugins désactivés/obsolètes"
+
+#: admin/Screen_audit_onglet-sante.php:88
+msgid ""
+"Assurez vous de supprimer les plugins désactivés qui ne servent à rien pour "
+"votre site et qui sont source de failles de sécurité."
+msgstr ""
+"Assurez vous de supprimer les plugins désactivés qui ne servent à rien pour "
+"votre site et qui sont source de failles de sécurité."
+
+#: admin/Screen_audit_onglet-sante.php:91
+msgid "Nombre de thèmes désactivés/obsolètes"
+msgstr "Nombre de thèmes désactivés/obsolètes"
+
+#: admin/Screen_audit_onglet-sante.php:93
+msgid ""
+"Assurez vous de ne garder qu'un thème de secours et de supprimer tous les "
+"autres."
+msgstr ""
+"Assurez vous de ne garder qu'un thème de secours et de supprimer tous les "
+"autres."
+
+#: admin/Screen_audit_onglet-sante.php:103 utils/mail.php:89
+msgid "Performances"
+msgstr "Performances"
+
+#: admin/Screen_audit_onglet-sante.php:106
+msgid ""
+"Vous trouverez ci dessous les informations de performances de votre "
+"installation"
+msgstr ""
+"Vous trouverez ci dessous les informations de performances de votre "
+"installation"
+
+#: admin/Screen_audit_onglet-sante.php:110
+msgid "Nombre de révisions limité à "
+msgstr "Nombre de révisions limité à "
+
+#: admin/Screen_audit_onglet-sante.php:112
+msgid ""
+"Un nombre illimité de révisions peut entrainer un alourdissement de la base "
+"de données et un ralentissement des performances."
+msgstr ""
+"Un nombre illimité de révisions peut entrainer un alourdissement de la base "
+"de données et un ralentissement des performances."
+
+#: admin/Screen_audit_onglet-sante.php:112
+msgid "il est conseillé de définir une valeur inférieure ou égale à 10"
+msgstr "il est conseillé de définir une valeur inférieure ou égale à 10"
+
+#: admin/Screen_audit_onglet-sante.php:115
+msgid "Système de cache ?"
+msgstr "Système de cache ?"
+
+#: admin/Screen_audit_onglet-sante.php:117
+msgid ""
+"Un système de cache permet d'afficher votre site beaucoup plus rapidement, "
+"sans solliciter le serveur. Installez un plugin dédié comme wp rocket ou wp "
+"super cache."
+msgstr ""
+"Un système de cache permet d'afficher votre site beaucoup plus rapidement, "
+"sans solliciter le serveur. Installez un plugin dédié comme wp rocket ou wp "
+"super cache."
+
+#: admin/Screen_audit_onglet-securite.php:9 utils/mail.php:113
+msgid "Sécurité Technique"
+msgstr "Sécurité Technique"
+
+#: admin/Screen_audit_onglet-securite.php:16
+msgid "Site en Https ?"
+msgstr "Site en Https ?"
+
+#: admin/Screen_audit_onglet-securite.php:18
+msgid ""
+"Installez un certificat pour votre nom de domaine en passant par votre "
+"hébergeur."
+msgstr ""
+"Installez un certificat pour votre nom de domaine en passant par votre "
+"hébergeur."
+
+#: admin/Screen_audit_onglet-securite.php:21
+msgid "Préfixe des tables en base de données"
+msgstr "Préfixe des tables en base de données"
+
+#: admin/Screen_audit_onglet-securite.php:24
+msgid ""
+"Changez le prefixe des tables de la base de données de votre site, nous "
+"écrivons actuellement un tutoriel pour vous aider"
+msgstr ""
+"Changez le prefixe des tables de la base de données de votre site, nous "
+"écrivons actuellement un tutoriel pour vous aider"
+
+#: admin/Screen_audit_onglet-securite.php:27
+msgid "Id de l'administrateur principal"
+msgstr "Id de l'administrateur principal"
+
+#: admin/Screen_audit_onglet-securite.php:30
+msgid ""
+"Changez l'id par défaut de l'administrateur principal en exécutant des "
+"requêtes en base de données, nous écrivons actuellement un tutoriel pour "
+"vous aider"
+msgstr ""
+"Changez l'id par défaut de l'administrateur principal en exécutant des "
+"requêtes en base de données, nous écrivons actuellement un tutoriel pour "
+"vous aider"
+
+#: admin/Screen_audit_onglet-securite.php:33
+msgid "Compte \"admin\" existant ?"
+msgstr "Compte \"admin\" existant ?"
+
+#: admin/Screen_audit_onglet-securite.php:35
+msgid ""
+"Le compte par défaut \"admin\" est connu des pirates, créez un nouveau "
+"compte administrateur et supprimez celui ci."
+msgstr ""
+"Le compte par défaut \"admin\" est connu des pirates, créez un nouveau "
+"compte administrateur et supprimez celui ci."
+
+#: admin/Screen_audit_onglet-securite.php:38
+msgid "Nombre de Comptes Administrateurs"
+msgstr "Nombre de Comptes Administrateurs"
+
+#: admin/Screen_audit_onglet-securite.php:40
+msgid ""
+"Définissez le bon rôle pour chacun des comptes utilisateur de votre site. En "
+"limitant le nomnbre de comptes administrateur, vous limitez les risques."
+msgstr ""
+"Définissez le bon rôle pour chacun des comptes utilisateur de votre site. En "
+"limitant le nomnbre de comptes administrateur, vous limitez les risques."
+
+#: admin/Screen_audit_onglet-securite.php:43
+msgid "Url du Backoffice cachée ?"
+msgstr "Url du Backoffice cachée ?"
+
+#: admin/Screen_audit_onglet-securite.php:45
+msgid ""
+"L'url par défaut \"/wp-admin\" est connue par tous. Changez pour compliquer "
+"la tâche des attaquants en utilisant les <a href=\"/wp-admin/admin.php?"
+"page=securicheck-reglages&tab=url-connexion\">réglages</a> de notre plugin "
+"Securicheck."
+msgstr ""
+"L'url par défaut \"/wp-admin\" est connue par tous. Changez pour compliquer "
+"la tâche des attaquants en utilisant les <a href=\"/wp-admin/admin.php?"
+"page=securicheck-reglages&tab=url-connexion\">réglages</a> de notre plugin "
+"Securicheck."
+
+#: admin/Screen_audit_onglet-securite.php:48
+msgid "Version de WordPress cachée ?"
+msgstr "Version de WordPress cachée ?"
+
+#: admin/Screen_audit_onglet-securite.php:50
+msgid ""
+"Ajoutez cette ligne de code dans le fichier functions.php de votre thème: "
+"<i></br> remove_action(\"wp_head\",\"wp_generator\");</i>"
+msgstr ""
+"Ajoutez cette ligne de code dans le fichier functions.php de votre thème: "
+"<i></br> remove_action(\"wp_head\",\"wp_generator\");</i>"
+
+#: admin/Screen_audit_onglet-securite.php:53
+msgid "XmlRpc désactivé ?"
+msgstr "XmlRpc désactivé ?"
+
+#: admin/Screen_audit_onglet-securite.php:55
+msgid ""
+"Ajoutez ces lignes de code dans le fichier .htaccess à la racine de votre "
+"site : <i></br>"
+msgstr ""
+"Ajoutez ces lignes de code dans le fichier .htaccess à la racine de votre "
+"site : <i></br>"
+
+#: admin/Screen_audit_onglet-securite.php:58
+msgid "Live Writer désactivé ?"
+msgstr "Live Writer désactivé ?"
+
+#: admin/Screen_audit_onglet-securite.php:60
+msgid ""
+"Ajoutez cette ligne de code dans votre fichier functions.php : <i></br> "
+"remove_action(\"wp_head\", \"wlwmanifest_link\");</i>"
+msgstr ""
+"Ajoutez cette ligne de code dans votre fichier functions.php : <i></br> "
+"remove_action(\"wp_head\", \"wlwmanifest_link\");</i>"
+
+#: admin/Screen_audit_onglet-securite.php:63
+msgid "API Rest désactivée ?"
+msgstr "API Rest désactivée ?"
+
+#: admin/Screen_audit_onglet-securite.php:66
+msgid ""
+"Votre site expose beaucoup d'informations via l'api REST mise à disposition. "
+"Si vous ne l'utilisez pas, désactivez la. Nous allons bientôt vous proposer "
+"un tutoriel pour le faire."
+msgstr ""
+"Votre site expose beaucoup d'informations via l'api REST mise à disposition. "
+"Si vous ne l'utilisez pas, désactivez la. Nous allons bientôt vous proposer "
+"un tutoriel pour le faire."
+
+#: admin/Screen_audit_onglet-securite.php:66
+msgid ""
+"L'api est bien désactivée uniquement pour les fonctionnalités qui n'ont pas "
+"à être visibles par tous et reste accessible pour celles qui vous sont "
+"utiles."
+msgstr ""
+"L'api est bien désactivée uniquement pour les fonctionnalités qui n'ont pas "
+"à être visibles par tous et reste accessible pour celles qui vous sont "
+"utiles."
+
+#: admin/Screen_audit_onglet-securite.php:69
+msgid "Editeur de fichier désactivé ?"
+msgstr "Editeur de fichier désactivé ?"
+
+#: admin/Screen_audit_onglet-securite.php:71
+msgid ""
+"Ajoutez cette ligne de code dans votre fichier wp-config.php : <i></"
+"br>define(\"DISALLOW_FILE_EDIT\", true);</i>"
+msgstr ""
+"Ajoutez cette ligne de code dans votre fichier wp-config.php : <i></"
+"br>define(\"DISALLOW_FILE_EDIT\", true);</i>"
+
+#: admin/Screen_audit_onglet-securite.php:74
+msgid "Navigation dans les dossiers désactivée ?"
+msgstr "Navigation dans les dossiers désactivée ?"
+
+#: admin/Screen_audit_onglet-securite.php:76
+msgid ""
+"Ajoutez cette ligne de code dans le fichier .htaccess à la racine de votre "
+"site : <i></br> Options -Indexes</i>"
+msgstr ""
+"Ajoutez cette ligne de code dans le fichier .htaccess à la racine de votre "
+"site : <i></br> Options -Indexes</i>"
+
+#: admin/Screen_audit_onglet-securite.php:79
+msgid "Répertoire Uploads Protégé ?"
+msgstr "Répertoire Uploads Protégé ?"
+
+#: admin/Screen_audit_onglet-securite.php:81
+msgid ""
+"Ajoutez ces lignes de code dans un fichier .htaccess situé dans le "
+"repertoire \"wp-content/uploads\" : <i></br> "
+msgstr ""
+"Ajoutez ces lignes de code dans un fichier .htaccess situé dans le "
+"repertoire \"wp-content/uploads\" : <i></br> "
+
+#: admin/Screen_audit_onglet-securite.php:84
+msgid "Informations Relatives au Serveur cachées ?"
+msgstr "Informations Relatives au Serveur cachées ?"
+
+#: admin/Screen_audit_onglet-securite.php:86
+msgid ""
+"Ajoutez ce code dans le fichier .htaccess à la racine de votre site : <i></"
+"br>ServerSignature Off</i>"
+msgstr ""
+"Ajoutez ce code dans le fichier .htaccess à la racine de votre site : <i></"
+"br>ServerSignature Off</i>"
+
+#: admin/Screen_audit_onglet-securite.php:89
+msgid "Fichier wp-config.php Protégé ?"
+msgstr "Fichier wp-config.php Protégé ?"
+
+#: admin/Screen_audit_onglet-securite.php:91
+#: admin/Screen_audit_onglet-securite.php:96
+msgid ""
+"Ajouter ces lignes de code dans le fichier htaccess à la racine de votre "
+"site : <i></br>"
+msgstr ""
+"Ajouter ces lignes de code dans le fichier htaccess à la racine de votre "
+"site : <i></br>"
+
+#: admin/Screen_audit_onglet-securite.php:94
+msgid "Fichier .htAccess Protégé ?"
+msgstr "Fichier .htAccess Protégé ?"
+
+#: admin/Screen_audit_onglet-securite.php:99
+msgid "Site accessible par ChatGPT ?"
+msgstr "Site accessible par ChatGPT ?"
+
+#: admin/Screen_audit_onglet-securite.php:101
+msgid ""
+"Ajoutez ces lignes de code dans le fichier .htaccess à la racine de votre "
+"site : <i></br>RewriteEngine On </br> RewriteCond %{HTTP_USER_AGENT} "
+"(anthropic-ai|Bytespider|CCBot|ChatGPT-User|FacebookBot|GPTBot|Omgilibot) "
+"[NC] </br> RewriteRule ^ – [F] </i>"
+msgstr ""
+"Ajoutez ces lignes de code dans le fichier .htaccess à la racine de votre "
+"site : <i></br>RewriteEngine On </br> RewriteCond %{HTTP_USER_AGENT} "
+"(anthropic-ai|Bytespider|CCBot|ChatGPT-User|FacebookBot|GPTBot|Omgilibot) "
+"[NC] </br> RewriteRule ^ – [F] </i>"
+
+#: admin/Screen_audit_onglet-securite.php:104
+msgid "Protection Hotlinking ?"
+msgstr "Protection Hotlinking ?"
+
+#: admin/Screen_audit_onglet-securite.php:106
+msgid ""
+"Ajoutez ces lignes de code dans le fichier .htaccess à la racine de votre "
+"site : <i></br>RewriteEngine on </br> RewriteCond %{HTTP_REFERER} !^$ </br> "
+"RewriteCond %{HTTP_REFERER} !^"
+msgstr ""
+"Ajoutez ces lignes de code dans le fichier .htaccess à la racine de votre "
+"site : <i></br>RewriteEngine on </br> RewriteCond %{HTTP_REFERER} !^$ </br> "
+"RewriteCond %{HTTP_REFERER} !^"
+
+#: admin/Screen_audit_onglet-securite.php:109
+msgid "Mode debug activé ?"
+msgstr "Mode debug activé ?"
+
+#: admin/Screen_audit_onglet-securite.php:111
+msgid ""
+"Modifier la valeur de la constante \"WP_DEBUG\" à \"false\" dans le fichier "
+"wp-config.php à la racine de votre site."
+msgstr ""
+"Modifier la valeur de la constante \"WP_DEBUG\" à \"false\" dans le fichier "
+"wp-config.php à la racine de votre site."
+
+#: admin/Screen_audit_onglet-securite.php:114
+msgid "Application passwords activé ?"
+msgstr "Application passwords activé ?"
+
+#: admin/Screen_audit_onglet-securite.php:116
+msgid ""
+"Ajoutez cette ligne de code dans le fichier functions.php de votre thème : "
+"<i></br> add_filter(\"wp_is_application_passwords_available\", "
+"\"__return_false\"); </i>"
+msgstr ""
+"Ajoutez cette ligne de code dans le fichier functions.php de votre thème : "
+"<i></br> add_filter(\"wp_is_application_passwords_available\", "
+"\"__return_false\"); </i>"
+
+#: admin/Screen_audit_onglet-securite.php:126
+msgid "En Têtes HTTP"
+msgstr "En Têtes HTTP"
+
+#: admin/Screen_audit_onglet-securite.php:129
+msgid ""
+"Vous trouverez ci dessous les informations concernant les en-têtes sécurité "
+"de votre site"
+msgstr ""
+"Vous trouverez ci dessous les informations concernant les en-têtes sécurité "
+"de votre site"
+
+#: admin/Screen_audit_onglet-securite.php:133
+msgid "Content-Security-Policy"
+msgstr "Content-Security-Policy"
+
+#: admin/Screen_audit_onglet-securite.php:135
+msgid "Aucune en-tête n'est configurée pour Content-Security-Policy"
+msgstr "Aucune en-tête n'est configurée pour Content-Security-Policy"
+
+#: admin/Screen_audit_onglet-securite.php:138
+msgid "Strict Transport Security (HSTS)"
+msgstr "Strict Transport Security (HSTS)"
+
+#: admin/Screen_audit_onglet-securite.php:140
+msgid "Aucune en-tête n'est configurée pour Strict Transport Security"
+msgstr "Aucune en-tête n'est configurée pour Strict Transport Security"
+
+#: admin/Screen_audit_onglet-securite.php:143
+msgid "Referrer Policy"
+msgstr "Referrer Policy"
+
+#: admin/Screen_audit_onglet-securite.php:145
+msgid "Aucune en-tête n'est configurée pour les Referrer Policy"
+msgstr "Aucune en-tête n'est configurée pour les Referrer Policy"
+
+#: admin/Screen_audit_onglet-securite.php:148
+msgid "Access-Control-Allow-Origin"
+msgstr "Access-Control-Allow-Origin"
+
+#: admin/Screen_audit_onglet-securite.php:150
+msgid "Aucune en-tête n'est configurée pour les Access-Control-Allow-Origin"
+msgstr "Aucune en-tête n'est configurée pour les Access-Control-Allow-Origin"
+
+#: admin/Screen_audit_onglet-securite.php:153
+msgid "X-Frame-Options"
+msgstr "X-Frame-Options"
+
+#: admin/Screen_audit_onglet-securite.php:155
+msgid "Aucune en-tête n'est configurée pour les X-Frame-Options"
+msgstr "Aucune en-tête n'est configurée pour les X-Frame-Options"
+
+#: admin/Screen_audit_onglet-securite.php:158
+msgid "XSS protection"
+msgstr "XSS protection"
+
+#: admin/Screen_audit_onglet-securite.php:160
+msgid "Aucune en-tête n'est configurée pour les XSS protection"
+msgstr "Aucune en-tête n'est configurée pour les XSS protection"
+
+#: admin/Screen_audit_onglet-securite.php:163
+msgid "X-Content-Type-Options"
+msgstr "X-Content-Type-Options"
+
+#: admin/Screen_audit_onglet-securite.php:165
+msgid "Aucune en-tête n'est configurée pour les X-Content-Type-Options"
+msgstr "Aucune en-tête n'est configurée pour les X-Content-Type-Options"
+
+#: admin/Screen_audit_onglet-securite.php:168
+msgid "Permissions-Policy"
+msgstr "Permissions-Policy"
+
+#: admin/Screen_audit_onglet-securite.php:170
+msgid "Aucune en-tête n'est configurée pour les Permissions-Policy"
+msgstr "Aucune en-tête n'est configurée pour les Permissions-Policy"
+
+#: admin/Screen_connexions.php:22
+msgid "Securicheck - CONNEXIONS"
+msgstr "Securicheck - CONNEXIONS"
+
+#: admin/Screen_connexions.php:26
+msgid ""
+" Ici vous trouverez le détail des connexions à votre site sur les 30 "
+"derniers jours "
+msgstr ""
+" Ici vous trouverez le détail des connexions à votre site sur les 30 "
+"derniers jours "
+
+#: admin/Screen_connexions.php:32
+msgid "Tous"
+msgstr "Tous"
+
+#: admin/Screen_reglages.php:22
+msgid "Securicheck - RÉGLAGES"
+msgstr "Securicheck - RÉGLAGES"
+
+#: admin/Screen_reglages.php:33
+msgid "Fonctionnalités"
+msgstr "Fonctionnalités"
+
+#: admin/Screen_reglages.php:34
+msgid "URL de connexion"
+msgstr "URL de connexion"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:10
+msgid "HotLinking"
+msgstr "HotLinking"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:32
+msgid " Url d'une image du site ?"
+msgstr " Url d'une image du site ?"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:44
+msgid ""
+"Afin de pouvoir vérifier que le HotLinking est bien désactivé, définissez "
+"ici le chemin d'une image uploadée dans la bibliothèque de médias de votre "
+"backoffice."
+msgstr ""
+"Afin de pouvoir vérifier que le HotLinking est bien désactivé, définissez "
+"ici le chemin d'une image uploadée dans la bibliothèque de médias de votre "
+"backoffice."
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:45
+msgid ""
+"Nous pourrons alors vérifier si cette image est utilisable sur un autre site "
+"internet grâce au HotLinking."
+msgstr ""
+"Nous pourrons alors vérifier si cette image est utilisable sur un autre site "
+"internet grâce au HotLinking."
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:52
+msgid "Notifications"
+msgstr "Notifications"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:58
+msgid " Envoyer des notifications ?"
+msgstr " Envoyer des notifications ?"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:61
+msgid "Email du destinataire :"
+msgstr "Email du destinataire :"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:64
+msgid "Une notification sera envoyée aprés chaque Audit effectué"
+msgstr "Une notification sera envoyée aprés chaque Audit effectué"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:70
+msgid "Limitations"
+msgstr "Limitations"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:76
+msgid " Limiter le nombre d'audits ?"
+msgstr " Limiter le nombre d'audits ?"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:79
+msgid "Nombre maximal d'audits à garder :"
+msgstr "Nombre maximal d'audits à garder :"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:82
+msgid ""
+"Si vous souhaitez limiter le nombre d'audits sauvegardés dans la base de "
+"données."
+msgstr ""
+"Si vous souhaitez limiter le nombre d'audits sauvegardés dans la base de "
+"données."
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:88
+msgid "Désinstallation"
+msgstr "Désinstallation"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:91
+msgid " Que nettoyer aprés la désinstallation complète du plugin ?"
+msgstr " Que nettoyer aprés la désinstallation complète du plugin ?"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:95
+msgid " Supprimer les audits ?"
+msgstr " Supprimer les audits ?"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:100
+msgid " Supprimer les réglages ?"
+msgstr " Supprimer les réglages ?"
+
+#: admin/Screen_reglages_onglet_fonctionnalites.php:102
+msgid ""
+"Soyez certain d'effectuer les bons réglages. Les suppressions après "
+"désinstallation de securicheck sont irréversibles."
+msgstr ""
+"Soyez certain d'effectuer les bons réglages. Les suppressions après "
+"désinstallation de securicheck sont irréversibles."
+
+#: admin/Screen_reglages_onglet_url_connexion.php:7
+msgid "URL de Connexion"
+msgstr "URL de Connexion"
+
+#: admin/Screen_reglages_onglet_url_connexion.php:13
+msgid " Changer l'url de connexion ?"
+msgstr " Changer l'url de connexion ?"
+
+#: admin/Screen_reglages_onglet_url_connexion.php:16
+msgid "Nouvelle url : "
+msgstr "Nouvelle url : "
+
+#: admin/Screen_reglages_onglet_url_connexion.php:19
+msgid ""
+"Changer l'URL de connexion de votre site WordPress renforce la sécurité en "
+"rendant plus difficile l'accès des attaquants, car l'URL par défaut est "
+"connue de tous. Cela réduit les risques d'attaques par force brute en "
+"dissimulant la page de connexion. Une URL personnalisée ajoute une couche de "
+"protection supplémentaire, compliquant les tentatives d'intrusion et "
+"améliorant ainsi la sécurité globale de votre site WordPress."
+msgstr ""
+"Changer l'URL de connexion de votre site WordPress renforce la sécurité en "
+"rendant plus difficile l'accès des attaquants, car l'URL par défaut est "
+"connue de tous. Cela réduit les risques d'attaques par force brute en "
+"dissimulant la page de connexion. Une URL personnalisée ajoute une couche de "
+"protection supplémentaire, compliquant les tentatives d'intrusion et "
+"améliorant ainsi la sécurité globale de votre site WordPress."
+
+#: admin/Screen_reglages_onglet_url_connexion.php:24
+msgid "Redirection"
+msgstr "Redirection"
+
+#: admin/Screen_reglages_onglet_url_connexion.php:30
+msgid " Activer la redirection ?"
+msgstr " Activer la redirection ?"
+
+#: admin/Screen_reglages_onglet_url_connexion.php:33
+msgid "Url de redirection : "
+msgstr "Url de redirection : "
+
+#: admin/Screen_reglages_onglet_url_connexion.php:36
+msgid "Redirige les utilisateurs vers une url personnalisée ?"
+msgstr "Redirige les utilisateurs vers une url personnalisée ?"
+
+#: admin/admin.php:32 utils/mail.php:25
+msgid "Audit Securicheck"
+msgstr "Audit Securicheck"
+
+#: admin/admin.php:52
+msgid "Réglages Securicheck"
+msgstr "Réglages Securicheck"
+
+#: admin/admin.php:53
+msgid "Réglages"
+msgstr "Réglages"
+
+#: utils/mail.php:36
+msgid "Bonjour"
+msgstr "Bonjour"
+
+#: utils/mail.php:38
+msgid ""
+"Veuillez prendre quelques minutes pour consulter les résultats du dernier "
+"audit de votre site."
+msgstr ""
+"Veuillez prendre quelques minutes pour consulter les résultats du dernier "
+"audit de votre site."
+
+#: utils/mail.php:43
+msgid "Résultats"
+msgstr "Résultats"
+
+#: utils/mail.php:44
+msgid "Au total il y a"
+msgstr "Au total il y a"
+
+#: utils/mail.php:45
+msgid "erreurs détéctées pour un score de"
+msgstr "erreurs détéctées pour un score de"
+
+#: utils/mail.php:53
+msgid "Les informations concernant la santé de votre site."
+msgstr "Les informations concernant la santé de votre site."
+
+#: utils/mail.php:57 utils/mail.php:105 utils/mail.php:141 utils/mail.php:192
+msgid "Critère"
+msgstr "Critère"
+
+#: utils/mail.php:101
+msgid "Les informations concernant la sécurité de votre site."
+msgstr "Les informations concernant la sécurité de votre site."
+
+#: utils/mail.php:125
+msgid "En têtes HTTP"
+msgstr "En têtes HTTP"
+
+#: utils/mail.php:136
+msgid "Mises à Jour"
+msgstr "Mises à Jour"
+
+#: utils/mail.php:137
+msgid ""
+"L'état des mises à jour de votre site internet (WordPress, Thèmes, Plugins)."
+msgstr ""
+"L'état des mises à jour de votre site internet (WordPress, Thèmes, Plugins)."
+
+#: utils/mail.php:186
+msgid ""
+"Le nombre de connexions totales, administrateurs et échouées depuis les 30"
+msgstr ""
+"Le nombre de connexions totales, administrateurs et échouées depuis les 30"
+
+#: utils/mail.php:187
+msgid "derniers jours."
+msgstr "derniers jours."
+
+#: utils/mail.php:193
+msgid "Nombre"
+msgstr "Nombre"
+
+#: utils/mail.php:200
+msgid "Connexions au total"
+msgstr "Connexions au total"
+
+#: utils/mail.php:212
+msgid "Connexions administrateurs"
+msgstr "Connexions administrateurs"
+
+#: utils/mail.php:224
+msgid "Connexions échouées"
+msgstr "Connexions échouées"
+
+#: utils/mail.php:235
+msgid ""
+"Si vous souhaitez améliorer la sécurité de votre site internet, optez pour la"
+msgstr ""
+"Si vous souhaitez améliorer la sécurité de votre site internet, optez pour la"
+
+#: utils/mail.php:236
+msgid "version premium du plugin"
+msgstr "version premium du plugin"
+
+#: utils/mail.php:236
+msgid " et corrigez ses failles de sécurité en 1 clic."
+msgstr " et corrigez ses failles de sécurité en 1 clic."
+
+#: utils/notifications.php:22
+msgid "From: WP Securicheck : nouvel AUDIT <"
+msgstr "From: WP Securicheck : nouvel AUDIT <"
+
+#: utils/notifications.php:25
+msgid "Lancement d'un nouvel AUDIT pour le site "
+msgstr "Lancement d'un nouvel AUDIT pour le site "
+
+#~ msgid "de"
+#~ msgstr "de"
+
+#~ msgid "votre site."
+#~ msgstr "votre site."
